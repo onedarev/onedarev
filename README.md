@@ -11,7 +11,6 @@
 [<img align="left" alt="onedarev | VK" width="30px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][vk]
 
 <br />
-<br />
 
 ## Languages and Tools:
 
